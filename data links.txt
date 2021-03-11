@@ -1,0 +1,4 @@
+classification: https://www.kaggle.com/dansbecker/nba-shot-logs
+
+regression : https://www.kaggle.com/austinreese/craigslist-carstrucks-data
+
